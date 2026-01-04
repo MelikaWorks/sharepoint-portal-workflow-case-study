@@ -42,5 +42,20 @@ registration, review, approval, and archiving processes.
 - SharePoint Lists & Libraries
 - Organizational Portals
 
+---
+
+## Supporting Artifacts
+
+The following documents were used during analysis and implementation:
+
+- FL-MWF-010224-rev00.pdf  
+  Mailroom workflow specification document
+
+- FV-010428-rev00.xlsx  
+  Data collection and form mapping sheet
+
+- process-inputs.docx  
+  Initial process requirements gathered from stakeholders
+
 
 
