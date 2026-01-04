@@ -18,6 +18,13 @@ These files are included for **context and documentation purposes only**.
 
 ## Notes
 
-- These documents do not contain executable logic.
-- Sensitive organizational identifiers have been reviewed and minimized.
-- Full implementation details are discussed verbally when required.
+The original artifacts are maintained in Persian, as they were created and
+used in a production environment within a Persian-speaking organization.
+
+These documents are provided for context and documentation purposes only
+and do not contain executable workflow logic.
+
+Key process logic, workflow design, roles, and approval flows are fully
+documented in English within this repository. Detailed implementation
+aspects can be discussed verbally when required.
+
