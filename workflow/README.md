@@ -75,7 +75,7 @@ included for contextual reference:
   Initial process requirements gathered from business stakeholders during
   the analysis phase.
 
-- **management-summary.xlsx**  
+- **MNGReport-01.04.25-01.xlsx**  
   An anonymized and simplified management-level summary derived from
   operational data. All organizational names and sensitive identifiers
   have been abstracted for confidentiality.
