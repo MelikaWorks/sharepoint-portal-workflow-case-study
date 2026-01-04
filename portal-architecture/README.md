@@ -1,64 +1,103 @@
-# SharePoint Sites & Portals (Enterprise Intranet)
+# SharePoint Sites & Portals – Case Study
 
-This section documents the design and implementation of enterprise
-SharePoint Sites and Portals used as an organizational intranet.
+This section documents the design and implementation of **SharePoint Sites and Portals**
+used as organizational entry points for systems, reports, document management, and workflows.
 
-The solution focuses on site architecture, content management,
-permissions, and reporting capabilities built on SharePoint Server
-(On-Prem).
-
-> Note: Project Server / PWA components are documented in a separate
-> repository and are intentionally excluded from this case study.
+The focus of this case study is on **SharePoint Sites / Portals only**.
+(Project Server / PWA is documented separately in another repository.)
 
 ---
 
-## Scope of Implementation
+## Overview
 
-- Enterprise SharePoint portals
-- Departmental and functional sites
-- Centralized document management
-- Custom lists and reporting
-- Role-based access control
+Multiple SharePoint sites were designed and deployed to provide:
+
+- Centralized access to organizational systems
+- Structured document archiving
+- Reporting and dashboards
+- Controlled access based on roles and permissions
+- A unified portal experience for end users
+
+These sites served as the operational backbone for daily activities across
+different departments and factories.
 
 ---
 
 ## Key Capabilities
 
-- Centralized portal entry point for organizational systems
-- Structured site and subsite architecture
-- Document libraries and custom lists
-- Group-based permissions and security trimming
-- Management and HR reporting via SharePoint lists
+- Custom SharePoint Home Pages
+- Structured site navigation and menus
+- Document libraries for archiving and reporting
+- Custom lists for operational data
+- Permission management using SharePoint groups
+- Multi-site (sub-site) architecture
 
 ---
 
 ## Screenshots
 
-The `screenshots/` folder contains real screenshots captured from the
-production environment, organized as follows:
+The `screenshots/` folder contains images captured from the production environment.
+They demonstrate the actual structure, configuration, and usage of the portals.
 
-### 1. Portal Home & Navigation
-High-level portal pages and system entry points.
+### Included Screenshots
 
-### 2. Site Structure & Content Management
-Site contents, document libraries, lists, pages, and subsites.
+- **Portal Home Page**  
+  Central entry point providing access to organizational systems and modules.
 
-### 3. Permissions & Security
-User and group-based permission management, access inheritance, and
-security configuration.
+- **Custom Lists (Operational Data)**  
+  SharePoint lists used for structured data such as stations, capacities, and reference data.
 
-### 4. Reports & Custom Lists
-SharePoint-based reporting lists and management views.
+- **Site Navigation & Menu Structure**  
+  Left navigation and site menus configured for ease of access and clarity.
 
-Screenshots are provided as execution evidence of the implemented
-solution.
+- **Document Archiving**  
+  Libraries used for structured storage and archiving of documents.
+
+- **Reports Library**  
+  Centralized storage of periodic and management reports.
+
+- **Sites & Sub-sites Overview**  
+  Collection of sub-sites representing departments, projects, or functional areas.
+
+- **Permission Management**  
+  Role-based access control using SharePoint groups and permission levels.
+
+Screenshots serve as **execution evidence**, especially where design-time
+access or historical configurations are no longer available.
+
+---
+
+## Architecture Notes
+
+- SharePoint Server (On-Prem)
+- Persian language content (RTL)
+- Gregorian calendar configuration
+- Role-based access via SharePoint groups
+- Designed for multi-department and multi-factory usage
+
+---
+
+## Important Notes
+
+- Original environments were production systems.
+- All screenshots are real usage examples.
+- Sensitive data has been anonymized where necessary.
+- No executable code is included in this repository.
+- This repository focuses on **design, structure, and implementation evidence**.
 
 ---
 
 ## Technologies Used
 
 - SharePoint Server (On-Prem)
-- SharePoint Sites & Subsites
+- SharePoint Sites & Sub-sites
 - SharePoint Lists & Libraries
-- Group-based Permission Model
+- Organizational Portals
 
+---
+
+## Status
+
+✅ Implemented  
+✅ Used in production  
+📌 Documented as a case study
