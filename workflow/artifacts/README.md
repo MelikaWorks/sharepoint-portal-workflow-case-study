@@ -19,6 +19,11 @@ and do not represent executable components of the solution.
   Initial process requirements gathered from business stakeholders during
   the analysis phase.
 
+- **management-summary.xlsx**  
+  An anonymized and simplified management-level summary derived from
+  operational reports. All organizational names and sensitive identifiers
+  have been abstracted for confidentiality.
+
 ## Notes
 
 The original artifacts are maintained in Persian, as they were created and
@@ -31,4 +36,3 @@ implementation details.
 Core workflow logic, approval structures, roles, and process flows are fully
 documented in English within this repository. Detailed implementation aspects
 can be discussed verbally when required.
-
