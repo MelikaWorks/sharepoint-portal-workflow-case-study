@@ -34,36 +34,21 @@ different departments and factories.
 
 ---
 
-## Screenshots
+## Screenshots (Execution Evidence)
 
-The `screenshots/` folder contains images captured from the production environment.
-They demonstrate the actual structure, configuration, and usage of the portals.
+The screenshots included in this folder were captured from the
+production environment and demonstrate:
 
-### Included Screenshots
+- SharePoint portal home pages
+- Site navigation and menu structure
+- Custom lists and data views
+- Document libraries and archiving structure
+- Reporting libraries and dashboards
+- Permission and access control configuration
+- Sub-site listings and portal hierarchy
 
-- **Portal Home Page**  
-  Central entry point providing access to organizational systems and modules.
-
-- **Custom Lists (Operational Data)**  
-  SharePoint lists used for structured data such as stations, capacities, and reference data.
-
-- **Site Navigation & Menu Structure**  
-  Left navigation and site menus configured for ease of access and clarity.
-
-- **Document Archiving**  
-  Libraries used for structured storage and archiving of documents.
-
-- **Reports Library**  
-  Centralized storage of periodic and management reports.
-
-- **Sites & Sub-sites Overview**  
-  Collection of sub-sites representing departments, projects, or functional areas.
-
-- **Permission Management**  
-  Role-based access control using SharePoint groups and permission levels.
-
-Screenshots serve as **execution evidence**, especially where design-time
-access or historical configurations are no longer available.
+Screenshots are provided as **execution evidence** and to illustrate
+the final implemented solution.
 
 ---
 
