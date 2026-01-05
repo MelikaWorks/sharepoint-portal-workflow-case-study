@@ -28,6 +28,7 @@ This repository focuses specifically on:
 ---
 
 ## 🧱 Repository Structure
+```bash
 /
 ├── portal-architecture/
 │   ├── 01-HomePage.jpg
@@ -70,7 +71,7 @@ This repository focuses specifically on:
 ├── SECURITY-NOTES.md
 ├── LICENSE
 └── README.md
-
+```
 ## 🧩 Key Areas
 
 ### Portal Architecture
